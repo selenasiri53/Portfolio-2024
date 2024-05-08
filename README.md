@@ -62,6 +62,10 @@ Start the site by running `npm run develop`.
 
 Your site is now running at `http://localhost:8000`!
 
+Error fix for 'punycode is deprecated':
+run
+$nvm install 20.10.0
+
 If you want to learn more about how you can use a Gatsby starter that is configured with a Gatsby theme, you can check out this [shorter](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/using-a-gatsby-theme/) or [longer](https://www.gatsbyjs.com/tutorial/using-a-theme/) tutorial. The tutorials don't exactly apply to this starter however the concepts are the same.
 
 ## 📝 Using and modifying this starter
